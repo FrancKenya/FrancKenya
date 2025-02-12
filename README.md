@@ -5,6 +5,5 @@
 -->
 - 🔭 I’m currently working on a fullstack Fantasy Premier League Staking App.
 - 🌱 I’m currently learning full-stack software engineering with ALX.
-- 👯 I’m looking to collaborate on software engineering and AI.
-- 🤔 I’m looking for help with backend engineering
+- 👯 I’m looking to collaborate on backend software engineering and AI.
 - 📫 How to reach me: https://www.linkedin.com/in/francis-waihiga-476198209/ https://x.com/blueinjil
